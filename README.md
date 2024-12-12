@@ -14,17 +14,17 @@
 #module_Tasks
 
 ## book manager: 
-Add Books
-Delete Books
-Update Books
+1. Add Books
+2. Delete Books
+3. Update Books
 
 ## land return manager:
-Lend Book
-Return Book
+1. Lend Book
+2. Return Book
 
 ## file handler:
-Save All Books from json
-View All Books from json
-Load All Books from json
-Load Lend Books from json
-Save Lend Books from json
+1. Save All Books from json
+2. View All Books from json
+3. Load All Books from json
+4. Load Lend Books from json
+5. Save Lend Books from json
