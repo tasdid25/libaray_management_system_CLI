@@ -1,7 +1,7 @@
-﻿
-# libaray_management_system_CLI
 
-# Welcome to Library Management System
+# Welcome to Library Management System CLI
+
+## menu
 
 0. Exit
 1. Add Books
@@ -11,7 +11,7 @@
 5. Lend Book
 6. Return Book
 
-#module_Tasks
+# module_Tasks
 
 ## book manager: 
 1. Add Books
