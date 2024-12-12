@@ -1,8 +1,8 @@
 ﻿
 # libaray_management_system_CLI
 
-#menu
-Welcome to Library Management System
+#Welcome to Library Management System
+
 0. Exit
 1. Add Books
 2. View All Books
